@@ -1,0 +1,40 @@
+Name, Range, Type, S, AP, D, Hit mod, Wound mod, Points
+Nemesis Daemon hammer, Melee, Melee 1, x2, -3, 3, -1, 0, 13
+Nemesis falchion (pair), Melee, Melee 2, User, -2, D3, 0, 0, 0
+Nemesis force halberd, Melee, Melee 1, +1, -2, D3, 0, 0, 0
+Nemesis force sword, Melee, Melee 1, User, -3, D3, 0, 0, 0
+Nemesis force sword (Sword Strike), Melee, Melee 1, User, -3, D3, 0, +1, 0
+Nemesis warding stave, Melee, Melee 1, +2, -1, D3, 0, 0, 0
+Incinerator, 8, Auto Assault D6, 6, -1, 1, 0, 0, 14
+Psilencer, 24, Heavy 6, 4, 0, D3, 0, 0, 4
+Psycannon, 24, Heavy 4, 7, -1, 1, 0, 0, 14
+Incinerator (Terminator), 8, Auto Assault D6, 6, -1, 1, 0, 0, 20
+Psilencer (Terminator), 24, Heavy 6, 4, 0, D3, 0, 0, 10
+Psycannon (Terminator), 24, Heavy 4, 7, -1, 1, 0, 0, 20
+Heavy Incinerator, 12, Auto Assault D6, 6, -1, 2, 0, 0, 40
+Gatling Psilencer, 24, Heavy 12, 4, 0, D3, 0, 0, 20
+Heavy Psycannon, 24, Heavy 6, 7, -1, 2, 0, 0, 30
+Storm bolter, 24, Rapid Fire 2, 4, 0, 1, 0, 0, 2
+Dreadfist (single), Melee, Melee 1, x2, -3, D3, 0, 0, 25
+Dreadfist (pair), Melee, Melee 2, x2, -3, D3, 0, 0, 35
+Nemesis Daemon greathammer, Melee, Melee 1, x2, -4, D6(3), -1, 0, 40
+Nemesis greatsword, Melee, Melee 1, +4, -3, D6, 0, 0, 35
+The Titansword, Melee, Melee 1, +4, -4, 3, 0, 0, 0
+Voldus, Melee, Melee 1, x2, -3, 3, 0, 0, 28
+Rending claws, Melee, Melee 1, User, -1.5, 1.1666666666666667, 0, 0, 0
+Assault cannon, 24, Heavy 6, 6, -1, 1, 0, 0, 21
+Twin Assault cannon, 24, Heavy 12, 6, -1, 1, 0, 0, 35
+Heavy flamer, 8, Auto Heavy D6, 5, -1, 1, 0, 0, 17
+Frag missile, 48, Heavy D6, 4, 0, 1, 0, 0, 25
+Krak missile, 48, Heavy 1, 8, -2, D6, 0, 0, 25
+Twin autocannon, 48, Heavy 4, 7, -1, 2, 0, 0, 33
+Dreadnought combat weapon, Melee, Melee 1, x2, -3, 3, 0, 0, 40
+Twin Heavy flamer, 8, Auto Heavy 2D6, 5, -1, 1, 0, 0, 34
+Twin Heavy bolter, 36, Heavy 6, 5, -1, 1, 0, 0, 17
+Lascannon, 48, Heavy 1, 9, -3, D6, 0, 0, 25
+Twin Lascannon, 48, Heavy 2, 9, -3, D6, 0, 0, 50
+Twin Plasma gun, 24, Rapid Fire 2, 7, -3, 1, 0, 0, 13
+Heavy plasma cannon, 36, Heavy D3, 7, -3, 1, 0, 0, 30
+Multi-melta, 24, Heavy 1, 8, -4, 4.472222222222222, 0, 0, 27
+Dreadnought combat weapon, Melee, Melee 1, x2, -3, 3, 0, 0, 40
+None, Melee, Melee 1, User, 0, 1, 0, 0, 0

@@ -1,0 +1,39 @@
+Name, Default, Options...
+Grey Knight, Storm bolter
+Grey Knight (Special Weapon), Incinerator, Psilencer, Psycannon
+Justicar, Storm bolter
+Purgator (Special Weapon), Incinerator, Psilencer, Psycannon
+Purgator, Storm bolter
+Purgator Justicar, Storm bolter
+Grey Knight Terminator, Storm bolter, Incinerator, Psilencer, Psycannon
+Terminator Justicar, Storm bolter
+Grey Knight, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Justicar, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Purgator, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Purgator Justicar, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Grey Knight Terminator, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Terminator Justicar, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Paladin, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Paragon, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Nemesis Dreadknight, Dreadfist (single), Dreadfist (pair), Nemesis Daemon greathammer, Nemesis greatsword
+Grand Master, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave, Voldus
+Grand Master, Storm bolter
+Paladin, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Paladin Ancient, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Paragon, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Paladin Ancient, Storm bolter
+Paladin, Storm bolter
+Paragon, Storm bolter
+Space Marine
+Space Marine Sergeant
+Terminator
+Terminator Sergeant
+Roboute Guilliman
+Genestealer, Rending claws
+Brotherhood Champion (Sword Strike), Storm bolter
+Brotherhood Champion (Blade Shield), Storm bolter
+Brotherhood Champion (Sword Strike), Nemesis force sword (Sword Strike)
+Brotherhood Champion (Blade Shield), Nemesis force sword
+Brother-Captain, Storm bolter
+Brother-Captain, Nemesis force sword, Nemesis Daemon hammer, Nemesis falchion (pair), Nemesis force halberd, Nemesis warding stave
+Librarian in Terminator Armour, Nemesis force sword, Nemesis Daemon hammer, Nemesis force halberd, Nemesis warding stave

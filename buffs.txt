@@ -1,0 +1,7 @@
+Name, Attribute, Amount
+Sacred Banner, A, +1
+Rites of Battle, to_hit, rr1
+Master Swordsman (hit), to_hit, rr
+Master Swordsman (wound), to_wound, rr
+Chapter Master, to_hit, rr
+Nemesis warding stave, special_save, +1
